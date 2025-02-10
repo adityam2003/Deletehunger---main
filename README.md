@@ -11,7 +11,7 @@ DeleteHunger is a non-profit organization dedicated to addressing food insecurit
 - DeleteHunger raises awareness about food wastage and mobilizes support for food donation efforts among local communities, NGOs, and government agencies.
 
 ## Market Research
-[View PDF](./path/to/DeleteHunger.pdf)
+[View PDF](DeleteHunger.pdf)
 
 
 ## Get Involved
